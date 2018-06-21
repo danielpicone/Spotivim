@@ -4,7 +4,7 @@
   "description": "An application to bring the ergonomics of keyboard commands from vim into Spotify music player",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
