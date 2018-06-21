@@ -1,0 +1,49 @@
+html {
+  background-color: #9f4300;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #4aff00;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #9f009e;
+  font-size: 60px;
+  text-shadow: 3px 3px 1px black;
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  padding: 10px 0;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgba(34, 51, 210, 0.85);
+}
+
+ol {
+  color: hsla(50, 70%, 47%, 0.82);
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+a:hover {
+  color: red;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
